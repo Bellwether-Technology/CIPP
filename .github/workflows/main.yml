@@ -1,4 +1,4 @@
-ame: Azure Static Web Apps CI/CD
+Name: Azure Static Web Apps CI/CD
 
 on:
   push:
